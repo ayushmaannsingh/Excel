@@ -1,5 +1,5 @@
 # Excel
-  
+  v
 # shortkey 
 Ctrl+C/V/X (Copy/Paste/Cut),
 Ctrl+Z/Y (Undo/Redo), Ctrl+S (Save),
