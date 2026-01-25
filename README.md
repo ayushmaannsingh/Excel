@@ -8,4 +8,3 @@ and Ctrl+D/R (Fill Down/Right) for quick actions,
 while function keys (F1-F12)
 and combinations with Alt/Shift offer deeper menu access and specific functions like F12 (Save As) or Alt+F1 (Insert Chart). 
 
-
